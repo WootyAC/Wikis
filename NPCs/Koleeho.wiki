@@ -19,3 +19,20 @@ Koleeho gives you Adventurer Token.
 Koleeho tells you, "Dem Mowen Udauntu gonna be a good fight. You bring dem down and I have dis key for ye."
 Kill 1 Mowen Udauntu and return to be rewarded.
 Koleeho tells you, "You gonna have hard time kill by Mowen with dat little steel. You gonna need more hands. But if do... de wishes upon a paw."
+
+
+== Turning In ==
+
+Koleeho tells you, "Nah, dis be a special task. You must wait for dis opportunity to come again."
+You may complete this quest again in 11h 6m 9s.
+Koleeho tells you, "You helped kill Mowen! Dat dere is impressive. That's all I be needin' from de."
+You've earned 105,999,990 Luminance.
+You've earned 0 experience. (407,039,967,232)
+Koleeho gives you Durable Celestial Moon Chest Key.
+Koleeho gives you 250 Trade Notes (250,000).
+Koleeho tells you, "I do now grant you the title The Chosen King!"
+Koleeho tells you, "I hope dat you share dis with you jungle friends. Dis not easy to come by."
+Koleeho gives you Adventurer Token.
+Koleeho tells you, "I do now grant you the title Ring, ring, ring... Banana phone!"
+Koleeho gives you Tusker Paw.
+[Fellowship] You say, "I got the paw"
